@@ -12,7 +12,7 @@ project(CH32 C CXX ASM)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_C_STANDARD 11)
 
-# 4.PATH
+## 4.PATH
 #set(TOOLPATH "D:/program/PATH/RISC-V Embedded GCC/bin/riscv-none-embed-")
 #if (WIN32)
 #    MESSAGE(STATUS "windows")
